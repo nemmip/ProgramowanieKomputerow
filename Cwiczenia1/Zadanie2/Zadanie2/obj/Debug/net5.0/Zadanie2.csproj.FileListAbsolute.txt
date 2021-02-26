@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\bin\Debug\net5.0\ref\Zadanie2.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\bin\Debug\net5.0\Zadanie2.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\obj\Debug\net5.0\ref\Zadanie2.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie2\Zadanie2\obj\Debug\net5.0\Zadanie2.genruntimeconfig.cache

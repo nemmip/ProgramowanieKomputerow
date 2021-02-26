@@ -1,0 +1,6 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie1\bin\Release\Zadanie1.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie1\bin\Release\Zadanie1.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie1\obj\Release\Zadanie1.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie1\obj\Release\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie1\obj\Release\Zadanie1.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Zadanie1\obj\Release\Zadanie1.pdb
