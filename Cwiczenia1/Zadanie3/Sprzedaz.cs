@@ -38,9 +38,16 @@ namespace Zadanie3
         // }
         public static double MinWart(Sprzedaz[] tablica)
         {
-            //TODO: Znaleźć wartość minimalną
-            //TODO: Zadania 1,2 może 3
-            return 0;
+            double min=Double.MaxValue;
+            
+            foreach (Sprzedaz sprzedaz in tablica)
+            {
+                if (sprzedaz.cena<min)
+                {
+                    min = sprzedaz.cena;
+                }
+            }
+            return min;
         }
 
     }

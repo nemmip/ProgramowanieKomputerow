@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julka\\source\\repos\\nemmip\\ProgramowanieKomputerow\\Cwiczenia1\\Zadanie3\\Zadanie3.csproj": {}
+    "C:\\Users\\julka\\source\\repos\\nemmip\\ProgramowanieKomputerow\\Cwiczenia1\\PD1\\PD1\\PD1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julka\\source\\repos\\nemmip\\ProgramowanieKomputerow\\Cwiczenia1\\Zadanie3\\Zadanie3.csproj": {
+    "C:\\Users\\julka\\source\\repos\\nemmip\\ProgramowanieKomputerow\\Cwiczenia1\\PD1\\PD1\\PD1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julka\\source\\repos\\nemmip\\ProgramowanieKomputerow\\Cwiczenia1\\Zadanie3\\Zadanie3.csproj",
-        "projectName": "Zadanie3",
-        "projectPath": "C:\\Users\\julka\\source\\repos\\nemmip\\ProgramowanieKomputerow\\Cwiczenia1\\Zadanie3\\Zadanie3.csproj",
+        "projectUniqueName": "C:\\Users\\julka\\source\\repos\\nemmip\\ProgramowanieKomputerow\\Cwiczenia1\\PD1\\PD1\\PD1.csproj",
+        "projectName": "PD1",
+        "projectPath": "C:\\Users\\julka\\source\\repos\\nemmip\\ProgramowanieKomputerow\\Cwiczenia1\\PD1\\PD1\\PD1.csproj",
         "packagesPath": "C:\\Users\\julka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julka\\source\\repos\\nemmip\\ProgramowanieKomputerow\\Cwiczenia1\\Zadanie3\\obj\\",
+        "outputPath": "C:\\Users\\julka\\source\\repos\\nemmip\\ProgramowanieKomputerow\\Cwiczenia1\\PD1\\PD1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julka\\AppData\\Roaming\\NuGet\\NuGet.Config",
