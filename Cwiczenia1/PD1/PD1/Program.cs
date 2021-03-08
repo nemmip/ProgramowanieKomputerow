@@ -20,10 +20,10 @@ namespace PD1
                 new Prostokat(22.5, 39),
                 new Prostokat(15, 17.25)
             };
-            // foreach (Prostokat prostokat in prostokaty)
-            // {
-            //     Console.WriteLine(prostokat.ToString());
-            // }
+            foreach (Prostokat prostokat in prostokaty)
+            {
+                Console.WriteLine(prostokat.ToString());
+            }
             
             //Zadanie 3
             Console.WriteLine($"Maksymalne pole: {Prostokat.MaxPole(prostokaty)}");

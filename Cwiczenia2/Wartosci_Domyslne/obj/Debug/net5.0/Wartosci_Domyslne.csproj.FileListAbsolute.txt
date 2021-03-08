@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\obj\Debug\net5.0\Wartosci_Domyslne.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\obj\Debug\net5.0\Wartosci_Domyslne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\obj\Debug\net5.0\Wartosci_Domyslne.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\obj\Debug\net5.0\Wartosci_Domyslne.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\obj\Debug\net5.0\Wartosci_Domyslne.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\bin\Debug\net5.0\Wartosci_Domyslne.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\bin\Debug\net5.0\Wartosci_Domyslne.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\bin\Debug\net5.0\Wartosci_Domyslne.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\bin\Debug\net5.0\Wartosci_Domyslne.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\bin\Debug\net5.0\Wartosci_Domyslne.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\bin\Debug\net5.0\ref\Wartosci_Domyslne.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\bin\Debug\net5.0\Wartosci_Domyslne.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\obj\Debug\net5.0\Wartosci_Domyslne.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\obj\Debug\net5.0\ref\Wartosci_Domyslne.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\obj\Debug\net5.0\Wartosci_Domyslne.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia1\Cwiczenia2\Wartosci_Domyslne\obj\Debug\net5.0\Wartosci_Domyslne.genruntimeconfig.cache

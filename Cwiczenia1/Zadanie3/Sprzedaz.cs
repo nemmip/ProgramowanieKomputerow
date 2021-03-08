@@ -42,9 +42,9 @@ namespace Zadanie3
             
             foreach (Sprzedaz sprzedaz in tablica)
             {
-                if (sprzedaz.cena<min)
+                if (sprzedaz.WartPrzed()<min)
                 {
-                    min = sprzedaz.cena;
+                    min = sprzedaz.WartPrzed();
                 }
             }
             return min;

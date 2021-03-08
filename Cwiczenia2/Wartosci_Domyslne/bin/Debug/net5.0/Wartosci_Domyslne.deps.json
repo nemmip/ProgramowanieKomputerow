@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Wartosci_Domyslne/1.0.0": {
+        "runtime": {
+          "Wartosci_Domyslne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wartosci_Domyslne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
