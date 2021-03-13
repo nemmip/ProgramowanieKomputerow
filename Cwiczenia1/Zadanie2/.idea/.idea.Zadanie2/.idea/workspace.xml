@@ -4,7 +4,15 @@
     <projectFile>Zadanie2/Zadanie2.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f892a348-abf0-4176-b45f-7bfc5ca194af" name="Default Changelist" comment="" />
+    <list default="true" id="f892a348-abf0-4176-b45f-7bfc5ca194af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Cwiczenia3/Cwiczenia3/Cwiczenia3/Sprzedaz.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PD1/PD1/obj/Debug/net5.0/PD1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PD1/PD1/obj/Debug/net5.0/PD1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PD1/PD1/obj/PD1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PD1/PD1/obj/PD1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PD1/PD1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PD1/PD1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PD1/PD1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PD1/PD1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PD1/PD1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PD1/PD1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PD1/PD1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../PD1/PD1/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +92,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
