@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\bin\Debug\net5.0\Struktury.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\bin\Debug\net5.0\Struktury.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\bin\Debug\net5.0\Struktury.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\bin\Debug\net5.0\Struktury.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\bin\Debug\net5.0\Struktury.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\bin\Debug\net5.0\ref\Struktury.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\bin\Debug\net5.0\Struktury.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\obj\Debug\net5.0\Struktury.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\obj\Debug\net5.0\Struktury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\obj\Debug\net5.0\Struktury.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\obj\Debug\net5.0\Struktury.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\obj\Debug\net5.0\Struktury.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\obj\Debug\net5.0\Struktury.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\obj\Debug\net5.0\ref\Struktury.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\obj\Debug\net5.0\Struktury.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia5\Struktury\obj\Debug\net5.0\Struktury.genruntimeconfig.cache
