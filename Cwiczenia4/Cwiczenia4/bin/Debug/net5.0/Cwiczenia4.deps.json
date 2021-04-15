@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cwiczenia4/1.0.0": {
+        "runtime": {
+          "Cwiczenia4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cwiczenia4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

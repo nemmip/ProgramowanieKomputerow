@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\bin\Debug\net5.0\PD3.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\bin\Debug\net5.0\PD3.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\bin\Debug\net5.0\PD3.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\bin\Debug\net5.0\PD3.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\bin\Debug\net5.0\PD3.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\bin\Debug\net5.0\ref\PD3.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\bin\Debug\net5.0\PD3.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\obj\Debug\net5.0\PD3.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\obj\Debug\net5.0\PD3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\obj\Debug\net5.0\PD3.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\obj\Debug\net5.0\PD3.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\obj\Debug\net5.0\PD3.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\obj\Debug\net5.0\PD3.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\obj\Debug\net5.0\ref\PD3.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\obj\Debug\net5.0\PD3.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\PD3\obj\Debug\net5.0\PD3.genruntimeconfig.cache

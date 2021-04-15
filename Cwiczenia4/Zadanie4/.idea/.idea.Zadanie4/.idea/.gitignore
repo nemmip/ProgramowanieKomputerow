@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Zadanie4.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia4\Zadanie4\.idea\.idea.Zadanie4\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
