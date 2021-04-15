@@ -20,7 +20,9 @@ namespace Cwiczenia3
 
         double Srednia()
         {
-            return Suma()/Sprzedaz.liczbaTransakcji;
+            //nie wolno odwoływać się do pola statycznego innej klasy!
+            //return Suma()/Sprzedaz.liczbaTransakcji;// to nie jest dobry pomysł, ponieważ liczba transakcji jest zwiększana o 1 cały czas i może zliczać poprzednio utworzone obiekty
+            return Suma() / 3;
         }
 
         public void Wyswietl()

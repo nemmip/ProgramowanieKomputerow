@@ -40,7 +40,7 @@ namespace Cwiczenia3
         //Zadanie 2
         static Sprzedaz() // konstruktor statyczny
         {
-            liczbaTransakcji = 1;
+            liczbaTransakcji = 0;
         }
         // zadanie1
         public Sprzedaz(double cena, int szt, bool upust=default)

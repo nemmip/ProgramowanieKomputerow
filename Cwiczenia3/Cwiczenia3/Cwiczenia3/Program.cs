@@ -40,11 +40,24 @@ namespace Cwiczenia3
                 new Sprzedaz(4, 6),
                 new Sprzedaz(11, 5));*/
             
+            Console.WriteLine($"Liczba transakcji {Sprzedaz.liczbaTransakcji}");
+           Sprzedaz p1 = new Sprzedaz(12.5, 15, true);
+           p1.Wyswietl();
+           Sprzedaz p2 = new Sprzedaz(55.99, 7, false);
+           p2.Wyswietl();
+           Sprzedaz p3 = new Sprzedaz(7.85, 24, false);
+           p3.Wyswietl();
+           Sprzedaz p4 = new Sprzedaz(3.99, 50, true);
+           p4.Wyswietl();
+           Console.WriteLine($"Liczba transakcji {Sprzedaz.liczbaTransakcji}");
+            
+            Console.WriteLine($"Liczba transakcji: {Sprzedaz.liczbaTransakcji}");
             Agregacja agregacja123 = new Agregacja(new Sprzedaz(Dodatki.NettoNaBrutto(2.5,23), 10),
                 new Sprzedaz(Dodatki.NettoNaBrutto(3,23), 6),
                 new Sprzedaz(Dodatki.NettoNaBrutto(11,23), 5));
+            Console.WriteLine($"Liczba transakcji: {Sprzedaz.liczbaTransakcji}");
             agregacja123.Wyswietl();
-
+            
 
             Console.ReadLine();
 
