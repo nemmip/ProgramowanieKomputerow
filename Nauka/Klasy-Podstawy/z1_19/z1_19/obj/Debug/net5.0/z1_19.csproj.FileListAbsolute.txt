@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\bin\Debug\net5.0\z1_19.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\bin\Debug\net5.0\z1_19.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\bin\Debug\net5.0\z1_19.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\bin\Debug\net5.0\z1_19.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\bin\Debug\net5.0\z1_19.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\bin\Debug\net5.0\ref\z1_19.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\bin\Debug\net5.0\z1_19.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\obj\Debug\net5.0\z1_19.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\obj\Debug\net5.0\z1_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\obj\Debug\net5.0\z1_19.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\obj\Debug\net5.0\z1_19.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\obj\Debug\net5.0\z1_19.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\obj\Debug\net5.0\z1_19.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\obj\Debug\net5.0\ref\z1_19.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\obj\Debug\net5.0\z1_19.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\z1_19\z1_19\obj\Debug\net5.0\z1_19.genruntimeconfig.cache

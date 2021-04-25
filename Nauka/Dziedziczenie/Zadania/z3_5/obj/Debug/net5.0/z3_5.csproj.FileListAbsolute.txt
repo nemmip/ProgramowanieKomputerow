@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\bin\Debug\net5.0\z3_5.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\bin\Debug\net5.0\z3_5.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\bin\Debug\net5.0\z3_5.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\bin\Debug\net5.0\z3_5.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\bin\Debug\net5.0\z3_5.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\bin\Debug\net5.0\ref\z3_5.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\bin\Debug\net5.0\z3_5.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\obj\Debug\net5.0\z3_5.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\obj\Debug\net5.0\z3_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\obj\Debug\net5.0\z3_5.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\obj\Debug\net5.0\z3_5.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\obj\Debug\net5.0\z3_5.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\obj\Debug\net5.0\z3_5.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\obj\Debug\net5.0\ref\z3_5.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\obj\Debug\net5.0\z3_5.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Dziedziczenie\Zadania\z3_5\obj\Debug\net5.0\z3_5.genruntimeconfig.cache

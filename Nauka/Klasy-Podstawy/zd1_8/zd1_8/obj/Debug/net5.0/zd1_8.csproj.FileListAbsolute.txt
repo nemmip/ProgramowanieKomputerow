@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\bin\Debug\net5.0\zd1_8.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\bin\Debug\net5.0\zd1_8.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\bin\Debug\net5.0\zd1_8.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\bin\Debug\net5.0\zd1_8.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\bin\Debug\net5.0\zd1_8.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\bin\Debug\net5.0\ref\zd1_8.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\bin\Debug\net5.0\zd1_8.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\obj\Debug\net5.0\zd1_8.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\obj\Debug\net5.0\zd1_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\obj\Debug\net5.0\zd1_8.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\obj\Debug\net5.0\zd1_8.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\obj\Debug\net5.0\zd1_8.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\obj\Debug\net5.0\zd1_8.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\obj\Debug\net5.0\ref\zd1_8.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\obj\Debug\net5.0\zd1_8.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Klasy-Podstawy\zd1_8\zd1_8\obj\Debug\net5.0\zd1_8.genruntimeconfig.cache

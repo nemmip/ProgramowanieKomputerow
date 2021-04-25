@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\bin\Debug\net5.0\z2_12.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\bin\Debug\net5.0\z2_12.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\bin\Debug\net5.0\z2_12.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\bin\Debug\net5.0\z2_12.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\bin\Debug\net5.0\z2_12.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\bin\Debug\net5.0\ref\z2_12.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\bin\Debug\net5.0\z2_12.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\obj\Debug\net5.0\z2_12.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\obj\Debug\net5.0\z2_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\obj\Debug\net5.0\z2_12.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\obj\Debug\net5.0\z2_12.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\obj\Debug\net5.0\z2_12.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\obj\Debug\net5.0\z2_12.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\obj\Debug\net5.0\ref\z2_12.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\obj\Debug\net5.0\z2_12.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Struktury_I_Enum\Zadania\z2_12\obj\Debug\net5.0\z2_12.genruntimeconfig.cache
