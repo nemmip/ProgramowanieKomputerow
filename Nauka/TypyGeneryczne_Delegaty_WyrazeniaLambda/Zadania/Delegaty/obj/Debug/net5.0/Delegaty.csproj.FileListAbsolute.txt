@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\bin\Debug\net5.0\Delegaty.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\bin\Debug\net5.0\Delegaty.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\bin\Debug\net5.0\Delegaty.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\bin\Debug\net5.0\Delegaty.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\bin\Debug\net5.0\Delegaty.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\bin\Debug\net5.0\ref\Delegaty.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\bin\Debug\net5.0\Delegaty.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\obj\Debug\net5.0\Delegaty.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\obj\Debug\net5.0\Delegaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\obj\Debug\net5.0\Delegaty.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\obj\Debug\net5.0\Delegaty.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\obj\Debug\net5.0\Delegaty.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\obj\Debug\net5.0\Delegaty.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\obj\Debug\net5.0\ref\Delegaty.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\obj\Debug\net5.0\Delegaty.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\Delegaty\obj\Debug\net5.0\Delegaty.genruntimeconfig.cache

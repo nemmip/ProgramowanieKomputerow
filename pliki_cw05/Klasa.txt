@@ -1,0 +1,21 @@
+   class PrzykKlasa
+    {
+        public int x;
+    }
+    class Program
+    {
+        static void Main()
+        {
+            PrzykKlasa k1 = new PrzykKlasa();
+            
+            PrzykKlasa k2 = k1;
+            Console.WriteLine($"wartoœæ x dla obiektu k1 to {k1.x}");
+            Console.WriteLine($"wartoœæ x dla obiektu k2 to {k2.x}");
+            k1.x = 8;
+            Console.WriteLine("------------- Po zmianie ----------");
+            Console.WriteLine($"wartoœæ x dla obiektu k1 to {k1.x}");
+            Console.WriteLine($"wartoœæ x dla obiektu k2 to {k2.x}");
+
+            Console.ReadKey();
+        }
+    }

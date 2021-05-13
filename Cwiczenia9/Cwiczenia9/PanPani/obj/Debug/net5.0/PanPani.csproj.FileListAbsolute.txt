@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\bin\Debug\net5.0\PanPani.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\bin\Debug\net5.0\PanPani.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\bin\Debug\net5.0\PanPani.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\bin\Debug\net5.0\PanPani.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\bin\Debug\net5.0\PanPani.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\bin\Debug\net5.0\ref\PanPani.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\bin\Debug\net5.0\PanPani.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\obj\Debug\net5.0\PanPani.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\obj\Debug\net5.0\PanPani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\obj\Debug\net5.0\PanPani.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\obj\Debug\net5.0\PanPani.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\obj\Debug\net5.0\PanPani.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\obj\Debug\net5.0\PanPani.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\obj\Debug\net5.0\ref\PanPani.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\obj\Debug\net5.0\PanPani.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia9\Cwiczenia9\PanPani\obj\Debug\net5.0\PanPani.genruntimeconfig.cache

@@ -24,7 +24,7 @@ namespace z_2
         #region Metody
 
         public abstract double Cena();
-        public override string ToString() => $"{GetType().Name,-20} {_wysokosc,5} {_szerokosc,5} {_glebokosc,6}";
+        public override string ToString() => $"{GetType().Name,-20} {_wysokosc,5} {_szerokosc,5} {_glebokosc,6} {Cena():C}";
 
 
         #endregion

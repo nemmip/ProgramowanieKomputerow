@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\bin\Debug\net5.0\gzmleko.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\bin\Debug\net5.0\gzmleko.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\bin\Debug\net5.0\gzmleko.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\bin\Debug\net5.0\gzmleko.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\bin\Debug\net5.0\gzmleko.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\bin\Debug\net5.0\ref\gzmleko.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\bin\Debug\net5.0\gzmleko.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\obj\Debug\net5.0\gzmleko.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\obj\Debug\net5.0\gzmleko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\obj\Debug\net5.0\gzmleko.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\obj\Debug\net5.0\gzmleko.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\obj\Debug\net5.0\gzmleko.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\obj\Debug\net5.0\gzmleko.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\obj\Debug\net5.0\ref\gzmleko.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\obj\Debug\net5.0\gzmleko.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\gzmleko\obj\Debug\net5.0\gzmleko.genruntimeconfig.cache

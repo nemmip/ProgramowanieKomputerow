@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\bin\Debug\net5.0\WyrazeniaLambda.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\bin\Debug\net5.0\WyrazeniaLambda.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\bin\Debug\net5.0\WyrazeniaLambda.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\bin\Debug\net5.0\WyrazeniaLambda.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\bin\Debug\net5.0\WyrazeniaLambda.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\bin\Debug\net5.0\ref\WyrazeniaLambda.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\bin\Debug\net5.0\WyrazeniaLambda.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\obj\Debug\net5.0\WyrazeniaLambda.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\obj\Debug\net5.0\WyrazeniaLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\obj\Debug\net5.0\WyrazeniaLambda.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\obj\Debug\net5.0\WyrazeniaLambda.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\obj\Debug\net5.0\WyrazeniaLambda.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\obj\Debug\net5.0\WyrazeniaLambda.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\obj\Debug\net5.0\ref\WyrazeniaLambda.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\obj\Debug\net5.0\WyrazeniaLambda.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\WyrazeniaLambda\obj\Debug\net5.0\WyrazeniaLambda.genruntimeconfig.cache

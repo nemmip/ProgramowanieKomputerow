@@ -15,8 +15,7 @@
 
         public override double Cena() => 100 * _frontPrzodTyl + 30 * _frontPrzodTyl + 30 * _boki + 40 * _podlogaSufit +
                                          20 * _podlogaSufit;
-
-        public override string ToString() => base.ToString() + $" {Cena(),7:C}";
+        
 
     }
 }

@@ -34,6 +34,24 @@
 
         public static bool operator <(Klient k1, Klient k2) => k1.DoZaplaty() < k2.DoZaplaty() ? true : false;
         public static bool operator>(Klient k1, Klient k2) => k1.DoZaplaty() > k2.DoZaplaty() ? true : false;
+
+        public static void Sortuj(Klient[] tab)
+        {
+            int j;
+            for (int i = 1; i < tab.Length; i++)
+            {
+                Klient key = tab[i];
+                j = i-1;
+                while (j>0 && tab[j]>key)
+                {
+                    tab[j + 1] = tab[j];
+                    j--;
+                }
+
+                tab[j + 1] = key;
+            }
+        }
+        
         
 
     }

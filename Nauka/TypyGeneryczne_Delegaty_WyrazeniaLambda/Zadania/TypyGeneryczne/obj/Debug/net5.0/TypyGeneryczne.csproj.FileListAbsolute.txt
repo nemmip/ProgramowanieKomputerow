@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\bin\Debug\net5.0\TypyGeneryczne.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\bin\Debug\net5.0\TypyGeneryczne.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\bin\Debug\net5.0\TypyGeneryczne.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\bin\Debug\net5.0\TypyGeneryczne.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\bin\Debug\net5.0\TypyGeneryczne.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\bin\Debug\net5.0\ref\TypyGeneryczne.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\bin\Debug\net5.0\TypyGeneryczne.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\obj\Debug\net5.0\TypyGeneryczne.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\obj\Debug\net5.0\TypyGeneryczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\obj\Debug\net5.0\TypyGeneryczne.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\obj\Debug\net5.0\TypyGeneryczne.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\obj\Debug\net5.0\TypyGeneryczne.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\obj\Debug\net5.0\TypyGeneryczne.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\obj\Debug\net5.0\ref\TypyGeneryczne.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\obj\Debug\net5.0\TypyGeneryczne.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\TypyGeneryczne_Delegaty_WyrazeniaLambda\Zadania\TypyGeneryczne\obj\Debug\net5.0\TypyGeneryczne.genruntimeconfig.cache

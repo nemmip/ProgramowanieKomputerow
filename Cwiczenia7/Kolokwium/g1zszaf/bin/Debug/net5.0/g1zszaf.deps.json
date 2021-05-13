@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "g1zszaf/1.0.0": {
+        "runtime": {
+          "g1zszaf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "g1zszaf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

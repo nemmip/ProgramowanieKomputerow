@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Task6.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Task6\.idea\.idea.Task6\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

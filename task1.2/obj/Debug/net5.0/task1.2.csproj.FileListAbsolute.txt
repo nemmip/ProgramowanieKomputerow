@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\bin\Debug\net5.0\task1.2.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\bin\Debug\net5.0\task1.2.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\bin\Debug\net5.0\task1.2.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\bin\Debug\net5.0\task1.2.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\bin\Debug\net5.0\task1.2.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\bin\Debug\net5.0\ref\task1.2.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\bin\Debug\net5.0\task1.2.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\obj\Debug\net5.0\task1.2.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\obj\Debug\net5.0\task1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\obj\Debug\net5.0\task1.2.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\obj\Debug\net5.0\task1.2.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\obj\Debug\net5.0\task1.2.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\obj\Debug\net5.0\task1.2.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\obj\Debug\net5.0\ref\task1.2.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\obj\Debug\net5.0\task1.2.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\task1.2\obj\Debug\net5.0\task1.2.genruntimeconfig.cache

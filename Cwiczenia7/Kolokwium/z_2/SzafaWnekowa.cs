@@ -9,11 +9,11 @@
             glebokosc)
         {
             _front = _szerokosc * _wysokosc;
-            _sufit = _szerokosc * glebokosc;
+            _sufit = _szerokosc * _glebokosc;
         }
 
         public override double Cena() => _front * 100 + _sufit * 20;
-        public override string ToString() => base.ToString() + $" {Cena(),6:C}";
+        
 
     }
 }

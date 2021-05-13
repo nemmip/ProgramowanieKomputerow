@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\bin\Debug\net5.0\g1komp.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\bin\Debug\net5.0\g1komp.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\bin\Debug\net5.0\g1komp.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\bin\Debug\net5.0\g1komp.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\bin\Debug\net5.0\g1komp.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\bin\Debug\net5.0\ref\g1komp.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\bin\Debug\net5.0\g1komp.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\obj\Debug\net5.0\g1komp.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\obj\Debug\net5.0\g1komp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\obj\Debug\net5.0\g1komp.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\obj\Debug\net5.0\g1komp.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\obj\Debug\net5.0\g1komp.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\obj\Debug\net5.0\g1komp.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\obj\Debug\net5.0\ref\g1komp.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\obj\Debug\net5.0\g1komp.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Cwiczenia7\Kolokwium\g1komp\obj\Debug\net5.0\g1komp.genruntimeconfig.cache
