@@ -13,7 +13,7 @@ namespace zad1
             _b = b;
         }
 
-        public double Pole() =>Math.Round(_a * _b,2) ;
+        public virtual double Pole() =>Math.Round(_a * _b,2) ;
         public override string ToString() => $"Dł {_a,15}; Szer {_b,5}; Pole: {Pole(),10};";
         public int CompareTo(IFigura obj) => obj == null ? 1 : Pole().CompareTo(obj.Pole());
 
