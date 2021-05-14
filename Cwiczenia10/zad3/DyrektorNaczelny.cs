@@ -1,15 +1,19 @@
-﻿using System;
-
-namespace zad3
+﻿namespace zad3
 {
-    public class Dyrektor:Pracownik
+    public class DyrektorNaczelny:Dyrektor
     {
+        private int _kwotaSpecjalna;
         public string Nazwisko { get=>nazwisko; set=>nazwisko=value; }
         public string Imie { get=>imie; set=>imie=value; }
-        public Dyrektor(string naz, string im, double podstawaPremii): base(naz, im,podstawaPremii)  { }
+
+        public DyrektorNaczelny(int kwotaSpecjalna, string naz, string im, double podstawaPremii) : base(naz, im,
+            podstawaPremii)
+        {
+            _kwotaSpecjalna = kwotaSpecjalna;
+        }
         public override double Premia()
         {
-            return base.Premia() * 2;
+            return base.Premia() + _kwotaSpecjalna;
         }
         public int CompareTo(IPremia? other)
         {

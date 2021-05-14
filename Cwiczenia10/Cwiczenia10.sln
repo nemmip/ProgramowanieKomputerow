@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad2", "zad2\zad2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad3", "zad3\zad3.csproj", "{5F07CE61-B60C-4ABF-9436-93EFDDEE855B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad4", "zad4\zad4.csproj", "{05444A71-F8C1-456A-8A75-9766BBE9CBD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{5F07CE61-B60C-4ABF-9436-93EFDDEE855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F07CE61-B60C-4ABF-9436-93EFDDEE855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F07CE61-B60C-4ABF-9436-93EFDDEE855B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05444A71-F8C1-456A-8A75-9766BBE9CBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05444A71-F8C1-456A-8A75-9766BBE9CBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05444A71-F8C1-456A-8A75-9766BBE9CBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05444A71-F8C1-456A-8A75-9766BBE9CBD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

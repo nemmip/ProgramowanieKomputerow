@@ -1,4 +1,6 @@
-﻿namespace zad3
+﻿using System;
+
+namespace zad3
 {
     public class Klient
     {
@@ -10,5 +12,6 @@
             nazwisko = naz;
             imie = im;
         }
+
     }
 }
