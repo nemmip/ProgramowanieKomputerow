@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Rachunki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumerRachunku>101/2019</NumerRachunku>
+  <DataZakupu>2021-05-20T20:08:56.0028015+02:00</DataZakupu>
+  <listaTowarow>
+    <Towar>
+      <Nazwa>Długopis</Nazwa>
+      <Ilosc>10</Ilosc>
+      <Cena>4,5</Cena>
+      <Wartosc>45</Wartosc>
+    </Towar>
+    <Towar>
+      <Nazwa>Ołówek</Nazwa>
+      <Ilosc>25</Ilosc>
+      <Cena>2,5</Cena>
+      <Wartosc>62,5</Wartosc>
+    </Towar>
+    <Towar>
+      <Nazwa>Blok rysunkowy</Nazwa>
+      <Ilosc>15</Ilosc>
+      <Cena>3</Cena>
+      <Wartosc>45</Wartosc>
+    </Towar>
+  </listaTowarow>
+</Rachunki>
