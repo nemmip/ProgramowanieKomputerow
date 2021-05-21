@@ -30,6 +30,8 @@ namespace zad3
                 new Dyrektor("Żulczyk","Irena",10000),
                 new Pracownik("Kowalski", "Jan", 1000),
                 new Dyrektor("Nowak", "Adam", 10000),
+                //new Klient("Alabama","Sylwia") as IPremia,
+                new DyrektorNaczelny(2137,"Jarzyna","Krzysztof",1000)
             };
             list.Sort();
             foreach (IPremia premia in list)

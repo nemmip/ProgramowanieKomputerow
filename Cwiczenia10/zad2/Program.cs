@@ -17,7 +17,7 @@ namespace zad2
                 new Pracownik
                 {
                     Imie = "Ireneusz", Nazwisko = "Bombka", Miasto = "Wrocław", Ulica = "Krasnoludków",
-                    NumerDomu = "8/30", Kryterium = Kryterium.miasto
+                    NumerDomu = "8/30", Kryterium = Kryterium.ulica
                 },
                 new Pracownik
                     {Imie = "Wiesława", Nazwisko = "Ile", Miasto = "Sopot", Ulica = "Słoneczna", NumerDomu = "120B"}
