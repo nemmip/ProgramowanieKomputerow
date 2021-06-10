@@ -25,12 +25,15 @@ namespace zad5
             writer.WriteStartElement("Nazwa");
             writer.WriteString(NazwaTowaru);
             writer.WriteEndElement();
+            
             writer.WriteStartElement("Ilosc");
             writer.WriteString(Ilosc.ToString());
             writer.WriteEndElement();
+            
             writer.WriteStartElement("Cena");
             writer.WriteString(Cena.ToString());
             writer.WriteEndElement();
+            
             writer.WriteStartElement("Wartosc");
             writer.WriteString(Wartosc.ToString());
             writer.WriteEndElement();

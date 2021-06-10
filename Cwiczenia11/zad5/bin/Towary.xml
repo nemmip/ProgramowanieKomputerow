@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Rachunki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NumerRachunku>101/2019</NumerRachunku>
-  <DataZakupu>2021-05-20T20:08:56.0028015+02:00</DataZakupu>
+  <DataZakupu>2021-05-25T16:23:48.3644584+02:00</DataZakupu>
   <listaTowarow>
     <Towar>
       <Nazwa>Długopis</Nazwa>
