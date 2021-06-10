@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lTRMQ3fAnfrLu6zL42pZEDkj3mLqnW8tqEyENAvgs6v+5xbRVkKvpLtO4YVC42KK4M6aU65jgOzYLXKYV9bUFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julka\\source\\repos\\Podstawy_DotNet_App\\EmployeeManager\\EmployeeManager.WinUI\\EmployeeManager.WinUI (Package)\\EmployeeManager.WinUI (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julka\\.nuget\\packages\\microsoft.projectreunion\\0.5.7\\microsoft.projectreunion.0.5.7.nupkg.sha512",
+    "C:\\Users\\julka\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.5.7\\microsoft.projectreunion.dwrite.0.5.7.nupkg.sha512",
+    "C:\\Users\\julka\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.5.7\\microsoft.projectreunion.foundation.0.5.7.nupkg.sha512",
+    "C:\\Users\\julka\\.nuget\\packages\\microsoft.projectreunion.winui\\0.5.7\\microsoft.projectreunion.winui.0.5.7.nupkg.sha512"
+  ],
+  "logs": []
+}

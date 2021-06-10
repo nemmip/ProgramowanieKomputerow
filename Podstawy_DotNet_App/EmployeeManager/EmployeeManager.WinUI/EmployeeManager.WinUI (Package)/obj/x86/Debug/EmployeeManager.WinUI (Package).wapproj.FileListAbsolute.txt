@@ -1,0 +1,48 @@
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Microsoft.ui.xaml.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.CopyComplete
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\App.xbf
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\MainWindow.xbf
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.deps.json
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.exe
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.runtimeconfig.json
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.WinUI.pdb
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.Windows.SDK.NET.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\WinRT.Runtime.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.WinUI.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Newtonsoft.Json.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.Internal.FrameworkUdk.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\Microsoft.ui.xaml.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\resources.pri
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\AppxManifest.xml
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI (Package).build.appxrecipe
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapprojAssemblyReference.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI.pri.xml
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\priconfig.xml
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\resources.resfiles
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\pri.resfiles
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\qualifiers.txt
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\obj\x86\Debug\EmployeeManager.WinUI (Package).wapproj.LastBuild.txt
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Images\logo.png
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\Controls\HeaderControl.xbf
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.Common.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.DataAccess.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.ViewModel.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.Common.pdb
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.DataAccess.pdb
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.WinUI\EmployeeManager.WinUI (Package)\bin\x86\Debug\EmployeeManager.WinUI\EmployeeManager.ViewModel.pdb

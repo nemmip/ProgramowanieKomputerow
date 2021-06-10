@@ -1,0 +1,15 @@
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.deps.json
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\bin\Debug\net5.0\ref\EmployeeManager.DataAccess.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.DataAccess.pdb
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.AssemblyInfo.cs
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.csproj.CopyComplete
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\obj\Debug\net5.0\ref\EmployeeManager.DataAccess.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.DataAccess\obj\Debug\net5.0\EmployeeManager.DataAccess.pdb

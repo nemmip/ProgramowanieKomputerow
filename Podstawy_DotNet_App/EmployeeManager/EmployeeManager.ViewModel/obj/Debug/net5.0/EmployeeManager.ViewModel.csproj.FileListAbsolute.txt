@@ -1,0 +1,15 @@
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.deps.json
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\bin\Debug\net5.0\ref\EmployeeManager.ViewModel.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.ViewModel.pdb
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.AssemblyInfo.cs
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.csproj.CopyComplete
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\obj\Debug\net5.0\ref\EmployeeManager.ViewModel.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.ViewModel\obj\Debug\net5.0\EmployeeManager.ViewModel.pdb

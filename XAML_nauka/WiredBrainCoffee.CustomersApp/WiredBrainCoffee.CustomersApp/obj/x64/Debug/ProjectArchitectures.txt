@@ -1,0 +1,1 @@
+C:\Users\julka\Downloads\xaml-getting-started\05\demos\before\WiredBrainCoffee.CustomersApp\WiredBrainCoffee.CustomersApp.csproj;x64

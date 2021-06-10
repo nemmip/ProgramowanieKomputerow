@@ -1,0 +1,12 @@
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.deps.json
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\bin\Debug\net5.0\ref\EmployeeManager.Common.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\bin\Debug\net5.0\EmployeeManager.Common.pdb
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.AssemblyInfo.cs
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\obj\Debug\net5.0\ref\EmployeeManager.Common.dll
+C:\Users\julka\source\repos\Podstawy_DotNet_App\EmployeeManager\EmployeeManager.Common\obj\Debug\net5.0\EmployeeManager.Common.pdb
