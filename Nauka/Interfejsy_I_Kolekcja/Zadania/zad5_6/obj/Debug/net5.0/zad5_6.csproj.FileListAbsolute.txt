@@ -1,0 +1,16 @@
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\bin\Debug\net5.0\zad5_6.exe
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\bin\Debug\net5.0\zad5_6.deps.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\bin\Debug\net5.0\zad5_6.runtimeconfig.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\bin\Debug\net5.0\zad5_6.runtimeconfig.dev.json
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\bin\Debug\net5.0\zad5_6.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\bin\Debug\net5.0\ref\zad5_6.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\bin\Debug\net5.0\zad5_6.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\obj\Debug\net5.0\zad5_6.csprojAssemblyReference.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\obj\Debug\net5.0\zad5_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\obj\Debug\net5.0\zad5_6.AssemblyInfoInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\obj\Debug\net5.0\zad5_6.AssemblyInfo.cs
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\obj\Debug\net5.0\zad5_6.csproj.CoreCompileInputs.cache
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\obj\Debug\net5.0\zad5_6.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\obj\Debug\net5.0\ref\zad5_6.dll
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\obj\Debug\net5.0\zad5_6.pdb
+C:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Interfejsy_I_Kolekcja\Zadania\zad5_6\obj\Debug\net5.0\zad5_6.genruntimeconfig.cache
