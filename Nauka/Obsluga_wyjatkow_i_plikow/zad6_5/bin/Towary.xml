@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<KolekcjaTowarow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Towary>
+    <Towar>
+      <Nazwa>Długopis</Nazwa>
+      <Cena>4.5</Cena>
+      <Ilosc>10</Ilosc>
+    </Towar>
+    <Towar>
+      <Nazwa>Ołówek</Nazwa>
+      <Cena>2.5</Cena>
+      <Ilosc>25</Ilosc>
+    </Towar>
+    <Towar>
+      <Nazwa>Blok rysunkowy</Nazwa>
+      <Cena>3</Cena>
+      <Ilosc>15</Ilosc>
+    </Towar>
+  </Towary>
+</KolekcjaTowarow>

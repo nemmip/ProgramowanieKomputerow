@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Obsluga_wyjatkow_i_plikow.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\julka\source\repos\nemmip\ProgramowanieKomputerow\Nauka\Obsluga_wyjatkow_i_plikow\.idea\.idea.Obsluga_wyjatkow_i_plikow\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
